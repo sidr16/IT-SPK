@@ -898,4 +898,10 @@ body {
   .application__form {
     width: 100%;
   }
+  .popap__inner {
+    min-width: 100%;
+    min-height: 100vh;
+    justify-content: center;
+    padding: 25px;
+  }
 }
