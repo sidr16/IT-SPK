@@ -215,6 +215,7 @@ body {
 .banner__btn:hover {
   border: 1px solid #002047;
   box-shadow: 0 0 10px #000;
+  cursor: pointer;
 }
 .banner__text {
   max-width: 400px;
@@ -607,6 +608,7 @@ body {
 .application__form button:hover {
   border: 1px solid #002047;
   box-shadow: 0 0 10px #000;
+  cursor: pointer;
 }
 .footer {
   width: 100%;
